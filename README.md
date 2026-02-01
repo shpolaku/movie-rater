@@ -1,6 +1,12 @@
 # Movie Rater 🎬
 
+[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=flat&logo=vercel)](https://movie-rater-app.vercel.app)
+
 A beautiful, interactive movie rating web application with star ratings and local storage persistence.
+
+## 🚀 Live Demo
+
+**Visit the app:** [https://movie-rater-app.vercel.app](https://movie-rater-app.vercel.app)
 
 ## Features
 

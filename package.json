@@ -1,0 +1,19 @@
+{
+  "name": "movie-rater",
+  "version": "1.0.0",
+  "description": "A beautiful, interactive movie rating web application",
+  "main": "movie-rater.html",
+  "scripts": {
+    "deploy": "vercel"
+  },
+  "keywords": [
+    "movie",
+    "rating",
+    "web-app"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "vercel": "^39.2.5"
+  }
+}
